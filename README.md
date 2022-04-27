@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/design/desktop-preview.jpg.jpg)
+![](./assets/design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Manish-d-art/stats-preview-card)
-- Live Site URL: [Add live site URL here](https://stats-card-manish.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/Manish-d-art/stats-preview-card)
+- Live Site URL: [Live site URL here](https://stats-card-manish.netlify.app/)
 
 ## My process
 
