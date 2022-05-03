@@ -12,7 +12,7 @@ body {
 .main {
     display: flex;
     flex-direction: row-reverse;
-    margin: 8rem;
+    margin: 7.9999rem;
     background-color: hsl(244, 38%, 16%);
 }
 
